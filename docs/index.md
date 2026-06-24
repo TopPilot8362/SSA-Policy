@@ -28,6 +28,7 @@ This site provides a single source of truth for all approved VATSSA policies.
 
 - [Staff Policy](staff/overview.md)
 - [Sector File Policy](sector-files/overview.md)
+- [Donations Policy](donations\SSA __ Donations Policy - v1.0.pdf)
 - [Meeting Minutes](meeting-minutes/overview.md)
 
 ---
