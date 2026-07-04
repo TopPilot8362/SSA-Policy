@@ -3,11 +3,11 @@ on:
   pull_request:
     branches:
       - main
-      - release/*
     paths:
       - "docs/**"
       - "mkdocs.yml"
       - "**/*.md"
+      - "**/*.pdf"
 
 permissions:
   contents: read
@@ -42,6 +42,6 @@ jobs:
       - name: Run lychee
         uses: lycheeverse/lychee-action@v2.0.2
         with:
-          args: --no-progress --accept 200,206 --exclude-file .lycheeignore .
+          args: --no-progress --accept 200,206 .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
