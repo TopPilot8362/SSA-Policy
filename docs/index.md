@@ -33,6 +33,10 @@ This site provides a single source of truth for all approved VATSSA policies.
 - [Donations Policy](donations/Donations_v1.0.pdf)
 - [Meeting Minutes](meeting-minutes/overview.md)
 
+**Privacy & Data Protection**
+
+- [Privacy Policy](privacy/Privacy_v1.0.pdf)
+
 ---
 
 ## Contributing
