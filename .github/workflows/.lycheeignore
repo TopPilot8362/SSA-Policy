@@ -1,0 +1,10 @@
+# Repo's own deployed site — avoid checking against itself during CI
+# (site may not yet reflect the branch being built, causing false failures)
+^https://policy\.vatssa\.com
+
+# GitHub Issues link — sometimes rate-limited/blocked by anonymous CI requests
+^https://github\.com/VATSIM-SSA/SSA-Policy/issues
+
+# mailto/tel links lychee doesn't need to check
+^mailto:
+^tel:
