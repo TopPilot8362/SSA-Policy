@@ -7,6 +7,7 @@ This site provides a single source of truth for all approved VATSSA policies.
 
 **Membership**
 
+- [Membership Policy](membership/Membership%20_v1.0.pdf)
 - [Transfer & Visiting Policy](tvcp/overview.md)
 
 **Controllers**
@@ -14,8 +15,10 @@ This site provides a single source of truth for all approved VATSSA policies.
 - [Currency Policy](currency/overview.md)
 - [FSS Policy](fss/overview.md)
 
-**ATC Training**
+**ATC Department**
 
+- [General ATC & Standards Policy](atc-general/ATC_General_v1.0.pdf)
+- [ATC Training & Standards Policy](atc-training/VATSSA_ATC%20Training%20&%20Standards%20Policy%20_V1.0.pdf)
 - [Training Guide and Policy](atc-training/overview.md)
 - [Fast Track Paths](fast-track/overview.md)
 - [Solo Cert Policy](solo/overview.md)
@@ -29,8 +32,13 @@ This site provides a single source of truth for all approved VATSSA policies.
 - [Division](division/_Division_v1.0.pdf)
 - [Staff Policy](staff/overview.md)
 - [Sector File Policy](sector-files/overview.md)
-- [Donations Policy](donations/donations-policy-v1.0.pdf)
+- [Donations Policy](donations/Donations_v1.0.pdf)
 - [Meeting Minutes](meeting-minutes/overview.md)
+
+**Privacy & Data Protection**
+
+- [Data Protection & Handling Policy](dphp/Data_Protection_and_Handling_v1.0.pdf)
+- [Privacy Policy](privacy/Privacy_v1.0.pdf)
 
 ---
 
