@@ -29,7 +29,7 @@ This site provides a single source of truth for all approved VATSSA policies.
 
 **Division**
 
-- [Division](division/_Division_v1.0.pdf)
+- [Division Policy](division/_Division_v1.0.pdf)
 - [Staff Policy](staff/overview.md)
 - [Sector File Policy](sector-files/overview.md)
 - [Donations Policy](donations/Donations_v1.0.pdf)
