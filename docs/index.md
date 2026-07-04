@@ -36,6 +36,7 @@ This site provides a single source of truth for all approved VATSSA policies.
 
 **Privacy & Data Protection**
 
+- [Data Protection & Handling Policy](dphp/Data_Protection_and_Handling_v1.0.pdf)
 - [Privacy Policy](privacy/Privacy_v1.0.pdf)
 
 ---
