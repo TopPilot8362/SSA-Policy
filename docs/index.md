@@ -16,6 +16,7 @@ This site provides a single source of truth for all approved VATSSA policies.
 
 **ATC Training**
 
+- [ATC Training & Standards Policy](atc-training-standards/VATSSA_ATC%20Training%20&%20Standards%20Policy%20_V1.0.pdf)
 - [Training Guide and Policy](atc-training/overview.md)
 - [Fast Track Paths](fast-track/overview.md)
 - [Solo Cert Policy](solo/overview.md)
