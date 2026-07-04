@@ -7,6 +7,7 @@ This site provides a single source of truth for all approved VATSSA policies.
 
 **Membership**
 
+- [Membership Policy](membership/Membership%20_v1.0.pdf)
 - [Transfer & Visiting Policy](tvcp/overview.md)
 
 **Controllers**
